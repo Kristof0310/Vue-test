@@ -1,0 +1,7 @@
+{
+  "label": "Compteur",
+  "plus": "Plus",
+  "minus": "Moins",
+  "metricDisplay": "Affichage des métriques",
+  "reset": "Réinitialiser le compteur"
+}
